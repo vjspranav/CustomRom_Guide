@@ -4,3 +4,8 @@ Hope you have a fun time, learn and especially help grow this repo for everyone 
 
 # Contents
 * [Introduction](0.%20Introduction.md)
+
+# Contirbution
+This is an open repo, mistakes if any, improvements if any can be directly either raised as an issue to solve or as a pull request.  
+Everything will be reviewd and merged as seen fit.  
+Let's together build this and create an amazing Rom Build Guide.
